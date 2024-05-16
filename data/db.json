@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nithin",
+      "section": "Cse-C"
+    },
+    {
+      "id": 2,
+      "name": "Pavan",
+      "section": "Cse-C"
+    },
+    {
+      "id": 3,
+      "name": "Madhukar reddy",
+      "section": "Cse-C"
+    },
+    {
+      "id": "4",
+      "name": "Akhira Nandha",
+      "section": "Cse-C"
+    }
+  ]
+}
